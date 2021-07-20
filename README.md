@@ -1,1 +1,2 @@
-# conways_game_of_life
+# python version of conway's game of life
+requires graphics.py
